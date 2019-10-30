@@ -2,11 +2,12 @@ body {
 	background-color: white;
 }
 
-heading 1 {
+#heading1 {
 	background-color: white;
     text-align: center;
 }
 
-paragraf 1 {
+#paragraf1{
+
 	background-color: yellow;
 }
