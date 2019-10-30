@@ -2,12 +2,20 @@ body {
 	background-color: white;
 }
 
-#heading1 {
+h3 { 
 	background-color: white;
     text-align: center;
 }
 
-#paragraf1{
+p {
 
 	background-color: yellow;
 }
+
+h3 {
+
+ 	background-color: blue;
+ 	text-align: center;
+ }
+
+ 
