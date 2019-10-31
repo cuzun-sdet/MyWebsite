@@ -2,43 +2,27 @@ body {
 	background-color: white;
 }
 
-div{
 
-
-
-	background-color: white;
+.centeralign{
     text-align: center;
 }
-div{
 
-.p 
-    background-color: yellow;
+.yellowbackground{
+	background-color: yellow;
 }
 
-div{
-
-
-.p 
-
- 	background-color: blue;
- 	text-align: center;
- }
-
-div{
-
-.body
-	background-color: red;
- }
-
-div{
- 
- .p
-	background-color: white;
+h3{
+	text-align: center;
 }
 
-div{
+.bluebackground{
+	background-color: blue;
+}
 
+.whitetext{
+	color:white;
+}
 
-.p
-	background-color: green;
+.yellowtext{
+	color:yellow;
 }
