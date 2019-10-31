@@ -2,20 +2,43 @@ body {
 	background-color: white;
 }
 
-h3 { 
+div{
+
+
+
 	background-color: white;
     text-align: center;
 }
+div{
 
-p {
-
-	background-color: yellow;
+.p 
+    background-color: yellow;
 }
 
-h3 {
+div{
+
+
+.p 
 
  	background-color: blue;
  	text-align: center;
  }
 
+div{
+
+.body
+	background-color: red;
+ }
+
+div{
  
+ .p
+	background-color: white;
+}
+
+div{
+
+
+.p
+	background-color: green;
+}
