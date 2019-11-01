@@ -12,4 +12,7 @@ var qs = (function(a) {
     return b;
 })(window.location.search.substr(1).split('&'));
 
-alert("Welcome " + qs["username"]); 
+
+if(qs["username"] != undefined || qs["username"] != NaN || qs["username"] != null){
+    alert("Welcome " + qs["username"]); 
+}
