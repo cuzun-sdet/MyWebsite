@@ -1,0 +1,77 @@
+button{
+	width:100%;
+	border: none;
+}
+
+.one{
+	background-color: red;
+	color:white;
+}
+
+#two{
+
+	background-color: yellow;
+	color: blue;
+}
+
+.three{
+	background-color: orange;
+	color: green;
+}
+
+#four{
+	background-color: green;
+	color: red;
+}
+.five{
+	background-color: purple;
+	color: pink;
+}
+
+#six{
+	background-color: blue;
+	color: brown;
+}
+.seven{
+	background-color: pink;
+	color: yellow;
+}
+#eight{
+	background-color: yellow;
+	color: green;
+}
+.nine{
+	background-color: brown;
+	color: white;
+}
+
+#sifir{
+	background-color: black;
+	color: red;
+}
+
+.bolme{
+	background-color: red;
+	color: yellow;
+}
+
+#carpma{
+	background-color: blue;
+	color:red;
+}
+.cikarma{
+	background-color: green;
+	content: black;
+}
+
+#toplama{
+	background-color: pink;
+	color: green;
+}
+.esit{
+	background-color: red;
+	color: yellow;
+}
+.bos{
+	background-color: yellow;
+}
