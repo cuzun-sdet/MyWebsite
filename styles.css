@@ -27,7 +27,13 @@ h3{
 	color:yellow;
 }
 
+
+form { 
+	display: inline-block; 
+}
+
+
 .entrance{
 	 margin: 15%;
-
+	 text-align: center
 }
